@@ -64,20 +64,9 @@ A Flask application is used to upload an image and predict the skin lesion type.
 User uploads an image → Model processes → Cancer type prediction displayed on UI.
 
 
- How to Run Project Locally
+ 
 # Clone the repository
 git clone https://github.com/Priyyya21/Skin-Cancer-Detection
-
-# Navigate to project folder
-cd skin-cancer-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Flask App
-python app.py
-
-
 
 ## Future Scope
 
@@ -85,7 +74,7 @@ python app.py
 ✔ Add Grad-CAM heatmaps for explainability
 ✔ Host the model with a more powerful GPU
 
-## License
+## Disclaimer
 
 This project is for educational and research purposes only. Not intended for real medical diagnosis.
 
