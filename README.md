@@ -1,2 +1,2 @@
-LIve application:
-https://skin-cancer-detection-sharmapriya.onrender.com/
+Live application:
+https://skin-cancer-detection-priyavashishth.onrender.com
