@@ -53,10 +53,9 @@ Confusion Matrix
 
 ## Results
 Metric	Value
-Training Accuracy	~92%
-Test Accuracy	~88%
+Training Accuracy	~97%
+Test Accuracy	~96%
 
-(Add your actual accuracies if you want)
 
 ## Deployment
 
@@ -64,7 +63,6 @@ A Flask application is used to upload an image and predict the skin lesion type.
 
 User uploads an image → Model processes → Cancer type prediction displayed on UI.
 
-(Add Render deployment link here when available)
 
  How to Run Project Locally
 # Clone the repository
